@@ -1,0 +1,3 @@
+[submodule "libflott"]
+	path = libflott
+	url = https://github.com/ardeego/libflott
