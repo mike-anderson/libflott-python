@@ -7,7 +7,7 @@ https://github.com/ardeego/libflott
 ## Build & Install
 
 ```
-git submodule init
+git submodule update --init
 python3 setup.py build
 python3 setup.py install --record installed_files.txt
 ```
